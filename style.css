@@ -3,11 +3,23 @@
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     background-color: #38b6ff;
+    border-radius: 4px;
 }
 body{
 font-family: 'Special Gothic', sans-serif;
+padding: 20px;
 }
-.botao{
-    text-align: center;
-    font-size: 50px;
+.lista{
+    font-size: 20px;
+}
+a{
+    display: block;
+    width: 250px; 
+    text-align: center; 
+    font-size: 24px;
+    padding: 15px 30px;
+    background-color: #38b6ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
 }
