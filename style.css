@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Special+Gothic:wght@400..700&display=swap');
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #38b6ff;
+}
+body{
+font-family: 'Special Gothic', sans-serif;
+}
+.botao{
+    text-align: center;
+    font-size: 50px;
+}
